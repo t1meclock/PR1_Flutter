@@ -26,3 +26,4 @@
 - ElevatedButton - используется для кнопок, которые содержат текст.
 ###
 
+![image](https://github.com/t1meclock/PR1_Flutter/blob/b388d89f6e6a08f308e7a4ce853ded21f8c5b032/assets/images/Maket1_1.png) 
