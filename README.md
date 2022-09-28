@@ -26,4 +26,11 @@
 - ElevatedButton - используется для кнопок, которые содержат текст.
 ###
 
-![image](https://github.com/t1meclock/PR1_Flutter/blob/b388d89f6e6a08f308e7a4ce853ded21f8c5b032/assets/images/Maket1_1.png) 
+## Окно авторизации.
+![image](https://github.com/t1meclock/PR1_Flutter/blob/61ad2c4644b9512159c1ccc91ba8e3f09272d18e/assets/images/Maket2.png)
+## Окно с подкастом. 
+![image](https://github.com/t1meclock/PR1_Flutter/blob/61ad2c4644b9512159c1ccc91ba8e3f09272d18e/assets/images/Maket1_1.png)
+## Окно с перечнем сессий в приложении.
+![image](https://github.com/t1meclock/PR1_Flutter/blob/61ad2c4644b9512159c1ccc91ba8e3f09272d18e/assets/images/Maket3.png) 
+![image](https://github.com/t1meclock/PR1_Flutter/blob/61ad2c4644b9512159c1ccc91ba8e3f09272d18e/assets/images/Maket4.png) 
+
