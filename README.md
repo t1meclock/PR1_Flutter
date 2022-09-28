@@ -34,3 +34,4 @@
 ![image](https://github.com/t1meclock/PR1_Flutter/blob/61ad2c4644b9512159c1ccc91ba8e3f09272d18e/assets/images/Maket3.png) 
 ![image](https://github.com/t1meclock/PR1_Flutter/blob/61ad2c4644b9512159c1ccc91ba8e3f09272d18e/assets/images/Maket4.png) 
 
+### Вывод: В данной практической работе были усвоены основные свойства .dart и flutter, также были применены знания, полученные из лекционного материала.
